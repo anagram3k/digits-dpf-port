@@ -1,6 +1,6 @@
-# DPF NANOVG WIDGETS EXAMPLES
+# DigitsVST DPF Port
 
-Example plugin using the [dpf-nanovg-widgets](https://github.com/clearly-broken-software/dpf-nanovg-widgets/).  
+Not much, still doing code. But be free to look around
 
 ## building 🏗️
 
